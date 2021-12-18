@@ -1,0 +1,29 @@
+.underline {
+    text-decoration:underline;
+    font-weight: normal;
+}
+
+.bold {
+    font-weight: bolder;
+
+}
+
+.oblique {
+    font-style: oblique;
+}
+
+.textshadow {
+    text-shadow: 5px 10px 10px rgba(0, 0, 0, 0.75),
+    -3px 10px 12px rgba(0, 0, 0, 0.75);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.green {
+    color: green;
+}
